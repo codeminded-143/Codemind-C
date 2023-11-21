@@ -16,9 +16,9 @@ int main()
     }
         
     if(rev == i){
-        printf("True");
+        printf("Palindrome");
     }else{
-        printf("False");
+        printf("Not Palindrome");
     }
     
 }
